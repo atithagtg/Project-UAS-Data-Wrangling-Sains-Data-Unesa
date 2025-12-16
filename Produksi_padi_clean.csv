@@ -1,0 +1,118 @@
+Provinsi,Produksi Padi (Ton),Produksi Beras (Ton),Tahun,Produksi Padi (Ton)_Outlier,Produksi Beras (Ton)_Outlier
+Aceh,1509456.46,869572.0,2022,False,False
+Sumatera Utara,2088583.81,1198045.75,2022,False,False
+Sumatera Barat,1373532.19,795306.36,2022,False,False
+Riau,213557.23,122561.42,2022,False,False
+Jambi,277743.83,160667.47,2022,False,False
+Sumatera Selatan,2775069.26,1593597.7,2022,False,False
+Bengkulu,281610.09,162197.49,2022,False,False
+Lampung,2688159.74,1545296.21,2022,False,False
+Kepulauan Bangka Belitung,61425.07,36408.55,2022,False,False
+Kepulauan Riau,506.91,290.07,2022,False,False
+DKI Jakarta,2337.77,1378.0,2022,False,False
+Jawa Barat,9433723.09,5447806.31,2022,True,True
+Jawa Tengah,9356445.49,5380509.51,2022,True,True
+DI Yogyakarta,561699.53,319059.52,2022,False,False
+Jawa Timur,9526515.67,5500801.88,2022,True,True
+Banten,1788582.6,1018653.08,2022,False,False
+Bali,680601.6,383829.16,2022,False,False
+Nusa Tenggara Barat,1452945.47,827524.88,2022,False,False
+Nusa Tenggara Timur,756049.91,442841.89,2022,False,False
+Kalimantan Barat,731225.8,432586.93,2022,False,False
+Kalimantan Tengah,343918.75,204291.82,2022,False,False
+Kalimantan Selatan,819419.2,484832.09,2022,False,False
+Kalimantan Timur,239425.34,139266.1,2022,False,False
+Kalimantan Utara,30533.59,18101.49,2022,False,False
+Sulawesi Utara,243730.28,136960.27,2022,False,False
+Sulawesi Tengah,744408.7,439408.72,2022,False,False
+Sulawesi Selatan,5360169.37,3075859.99,2022,True,True
+Sulawesi Tenggara,478958.03,275055.53,2022,False,False
+Gorontalo,240134.53,134082.02,2022,False,False
+Sulawesi Barat,353513.29,203031.6,2022,False,False
+Maluku,92601.06,51857.42,2022,False,False
+Maluku Utara,24486.03,13702.55,2022,False,False
+Papua Barat,23963.92,14398.76,2022,False,False
+Papua Barat Daya,0.0,0.0,2022,False,False
+Papua,193943.47,110739.23,2022,False,False
+Papua Selatan,0.0,0.0,2022,False,False
+Papua Tengah,0.0,0.0,2022,False,False
+Papua Pegunungan,0.0,0.0,2022,False,False
+Indonesia,54748977.08,31540521.77,2022,True,True
+Aceh,1404234.82,808955.47,2023,False,False
+Sumatera Utara,2087474.15,1197409.21,2023,False,False
+Sumatera Barat,1482468.79,858383.18,2023,False,False
+Riau,205972.55,118208.51,2023,False,False
+Jambi,275941.45,159624.9,2023,False,False
+Sumatera Selatan,2832773.92,1626734.93,2023,False,False
+Bengkulu,286684.43,165120.08,2023,False,False
+Lampung,2757898.19,1585385.58,2023,False,False
+Kepulauan Bangka Belitung,66468.89,39398.13,2023,False,False
+Kepulauan Riau,324.01,185.41,2023,False,False
+DKI Jakarta,2674.28,1576.37,2023,False,False
+Jawa Barat,9140039.2,5278209.2,2023,True,True
+Jawa Tengah,9084107.53,5223899.08,2023,True,True
+DI Yogyakarta,534113.69,303390.05,2023,False,False
+Jawa Timur,9710661.33,5607131.53,2023,True,True
+Banten,1686483.29,960504.4,2023,False,False
+Bali,673580.65,379869.53,2023,False,False
+Nusa Tenggara Barat,1538536.92,876273.53,2023,False,False
+Nusa Tenggara Timur,766810.46,449144.5,2023,False,False
+Kalimantan Barat,700290.8,414286.15,2023,False,False
+Kalimantan Tengah,330781.05,196487.84,2023,False,False
+Kalimantan Selatan,875545.73,518040.84,2023,False,False
+Kalimantan Timur,226972.07,132022.44,2023,False,False
+Kalimantan Utara,23602.0,13992.14,2023,False,False
+Sulawesi Utara,238193.41,133848.82,2023,False,False
+Sulawesi Tengah,821367.41,484835.84,2023,False,False
+Sulawesi Selatan,4876386.11,2798247.6,2023,True,True
+Sulawesi Tenggara,479407.25,275313.62,2023,False,False
+Gorontalo,251431.76,140390.0,2023,False,False
+Sulawesi Barat,291458.59,167391.99,2023,False,False
+Maluku,79958.34,44777.38,2023,False,False
+Maluku Utara,26663.23,14920.97,2023,False,False
+Papua Barat,22566.81,13559.26,2023,False,False
+Papua Barat Daya,2396.95,1440.2,2023,False,False
+Papua,3760.45,2147.17,2023,False,False
+Papua Selatan,183627.83,104849.17,2023,False,False
+Papua Tengah,9273.22,5294.89,2023,False,False
+Papua Pegunungan,61.63,35.19,2023,False,False
+Indonesia,53980993.19,31101285.1,2023,True,True
+Aceh,1659966.28,956278.09,2024,False,False
+Sumatera Utara,2204875.51,1264752.48,2024,False,False
+Sumatera Barat,1356467.93,785425.72,2024,False,False
+Riau,222055.71,127438.73,2024,False,False
+Jambi,281022.05,162563.9,2024,False,False
+Sumatera Selatan,2909411.67,1670744.56,2024,False,False
+Bengkulu,272848.55,157151.04,2024,False,False
+Lampung,2791347.53,1604614.06,2024,False,False
+Kepulauan Bangka Belitung,77489.79,45930.55,2024,False,False
+Kepulauan Riau,305.09,174.59,2024,False,False
+DKI Jakarta,2306.54,1359.57,2024,False,False
+Jawa Barat,8626879.91,4981868.86,2024,True,True
+Jawa Tengah,8891297.05,5113021.6,2024,True,True
+DI Yogyakarta,452831.77,257219.86,2024,False,False
+Jawa Timur,9270435.29,5352936.04,2024,True,True
+Banten,1550623.46,883128.02,2024,False,False
+Bali,635473.35,358378.78,2024,False,False
+Nusa Tenggara Barat,1453408.37,827788.45,2024,False,False
+Nusa Tenggara Timur,707792.54,414576.01,2024,False,False
+Kalimantan Barat,764784.15,452439.81,2024,False,False
+Kalimantan Tengah,366146.82,217495.56,2024,False,False
+Kalimantan Selatan,1029567.93,609172.41,2024,False,False
+Kalimantan Timur,249642.9,145209.36,2024,False,False
+Kalimantan Utara,30079.77,17832.41,2024,False,False
+Sulawesi Utara,273134.94,153483.66,2024,False,False
+Sulawesi Tengah,761936.39,449754.96,2024,False,False
+Sulawesi Selatan,4818429.39,2764990.01,2024,True,True
+Sulawesi Tenggara,555836.08,319205.15,2024,False,False
+Gorontalo,234862.88,131138.53,2024,False,False
+Sulawesi Barat,318876.59,183138.8,2024,False,False
+Maluku,91125.35,51031.04,2024,False,False
+Maluku Utara,31232.95,17478.19,2024,False,False
+Papua Barat,20729.15,12455.13,2024,False,False
+Papua Barat Daya,988.64,594.02,2024,False,False
+Papua,4609.95,2632.19,2024,False,False
+Papua Selatan,217789.62,124355.12,2024,False,False
+Papua Tengah,6072.38,3467.26,2024,False,False
+Papua Pegunungan,42.38,24.2,2024,False,False
+Indonesia,53142726.65,30621248.72,2024,True,True
